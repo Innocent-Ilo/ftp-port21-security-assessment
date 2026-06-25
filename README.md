@@ -33,7 +33,6 @@ EVIDENCE
 ![Nmap Scan](Picture3.png)
 ![Nmap Scan](Picture5.png)
 
-
 RECOMMENDATION
 
 Disable anonymous FTP access
