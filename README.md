@@ -23,7 +23,6 @@ Verification of anonymous login access
 FINDINGS
 EVIDENCE
 ![Nmap Scan](vulnass1.png)
- 
 FTP service running on port 21 detected
 Anonymous login enabled
 Cleartext communication observed
@@ -32,7 +31,6 @@ EVIDENCE
 ![Nmap Scan](Picture1.png)
 ![Nmap Scan](Picture3.png)
 ![Nmap Scan](Picture5.png)
-
 RECOMMENDATION
 
 Disable anonymous FTP access
